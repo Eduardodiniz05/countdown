@@ -1,11 +1,13 @@
 # __CountDown__
 
+
+## contador desenvolvido utilizando __JavaScript__, __Html__ e __CSS__
+
 ## Contador
-
-### contador desenvolvido utilizando __JavaScript__, __Html__ e __CSS__
-
 ![countdown](assets/countdown.png)
 
+## Resetado
 ![reset](assets/reset.png)
 
+## Tempo finalizado
 ![over](assets/over.png)
